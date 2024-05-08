@@ -32,3 +32,4 @@ To use this API, follow these steps:
 Explore the API using the GraphQL Playground Schema Documentation:
 
 - GraphQL Playground: https://kr1a19d91e.execute-api.us-east-1.amazonaws.com/
+-PostMan URL: https://documenter.getpostman.com/view/31453748/2sA3JKd2tf
