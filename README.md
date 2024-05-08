@@ -1,6 +1,6 @@
-# Pet Store API
+# Todo List Graphql API
 
-Welcome to the Pet Store API! This API allows you to manage pets and their owners in a pet store.
+ This API allows you to manage create , view all   and update your todo list.
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ To use this API, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Challaris/pet-store-gql
+   git clone https://github.com/YAYI68/todolist.git
 
    ```
 
@@ -25,10 +25,10 @@ To use this API, follow these steps:
    npm run dev
    ```
 
-The API will be running at http://localhost:8000 by default.
+
 
 ## API Documentation
 
 Explore the API using the GraphQL Playground Schema Documentation:
 
-- GraphQL Playground: http://localhost:8000
+- GraphQL Playground: https://kr1a19d91e.execute-api.us-east-1.amazonaws.com/
